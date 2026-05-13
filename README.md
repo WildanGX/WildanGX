@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm  Wildan 👋</h1>
+<h1 align="center">Hi there, I'm Wildan 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WildanGX&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
@@ -13,12 +13,12 @@
 
 ### 🛠️ About Me
 
-*   ✨ **Experience**: Creating bugs and fixing them since 2026[cite: 2].
-*   🤖 **Bot Expertise**: Specializing in highly interactive Discord bots using **aoi.js** and **Node.js**.
-*   🖥️ **Systems**: Crafting **AGPL-3.0** auto-installers for VPS, Game Panels, and Linux environments.
-*   💾 **Databases**: Experienced in managing **MongoDB**, **MySQL**, and **Oracle**[cite: 2].
-*   ☁️ **Network**: Optimizing performance and security via **Cloudflare** and **Nginx**[cite: 2].
+*   ✨ **Experience**: Creating bugs and fixing them since [Isi Tahun Kamu Mulai][cite: 2].
+*   🤖 **Bot Architect**: Specializing in highly interactive Discord bots using **aoi.js** and **Node.js**.
+*   ☁️ **Infrastructure & Databases**: Managing VPS, Cloudflare, and databases like **MongoDB**, **MySQL**, and **Oracle**[cite: 2].
+*   🖥️ **Systems**: Crafting **AGPL-3.0** auto-installers for VPS, Game Panels, and Linux environments[cite: 2].
 *   📚 **Current Focus**: Mastering **Java Backend** and Cloud Native technologies[cite: 2].
+*   🎯 **Goals**: Empowering the open-source community with high-quality tools[cite: 2].
 
 ---
 
@@ -59,6 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WildanGX&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildanGX&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
